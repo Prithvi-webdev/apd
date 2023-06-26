@@ -39,6 +39,11 @@ function Expenses(){
         <div className='expense-date'> {data[3].date} </div>
         <div className='expense-amount'> {data[3].amount} </div>
     </div>
+    <div className='expense-item' >
+        <div className='expense-name'> {data[4].name} </div>
+        <div className='expense-date'> {data[4].date} </div>
+        <div className='expense-amount'> {data[4].amount} </div>
+    </div>
     </>
     
 }
