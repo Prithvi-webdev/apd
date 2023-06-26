@@ -1,0 +1,19 @@
+nav{
+    display:flex;
+    background-color:aqua;
+    padding: 10px;
+    
+    
+  }
+  
+  nav .menu-item a{
+    text-decoration:underline;  
+    padding: 5px;
+    color: white;
+    border-radius: 5px;
+  
+  }
+  nav .menu-item a:hover{
+    text-decoration:underline;  
+    background-color:bisque;
+  }

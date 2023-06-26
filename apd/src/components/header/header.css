@@ -1,0 +1,11 @@
+header{
+    background-color: #EA906C;
+    text-align: center;
+    color: white;
+    padding: 40px;
+    
+    }
+    header h3{
+      font-size: 40px;
+      margin: 0;
+    }
